@@ -36,6 +36,8 @@ FullEditor.defaultConfig.toolbar = {
 			'redo',
 			'openProjectShowFormattingHelp',
 			'|',
+			'direction',
+			'|',
 			'preview',
 			'opShowSource'
 		]
@@ -50,6 +52,7 @@ ConstrainedEditor.defaultConfig.toolbar = {
 		'italic',
 		'strikethrough',
 		'code',
+		'direction',
 		'insertCodeBlock',
 		'link',
 		'bulletedList',
