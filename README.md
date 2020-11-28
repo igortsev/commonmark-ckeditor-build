@@ -22,7 +22,8 @@ npm install
 export OPENPROJECT_CORE=/path/to/openproject/root
 ```
 
-
+3. Build
+cd /app && git clone https://github.com/igortsev/commonmark-ckeditor-build && cd commonmark-ckeditor-build && npm install && export OPENPROJECT_CORE=/app && npm run build
 
 ## Building
 
